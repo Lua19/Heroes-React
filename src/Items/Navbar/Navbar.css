@@ -5,6 +5,29 @@
     left: 0;
     right: 0;
 }
+#list-element{
+    list-style: none;
+    background-color: #03131f;
+    border: solid 5px #70bdf2;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 25px;
+    font-size: x-large;
+    font-weight: 600;
+    cursor: pointer;
+}
+.offcanvas-header{
+    background-color: #03131f;
+    color: #70bdf2;
+}
+#offcanvasRightLabel{
+    font-size: xx-large;
+    font-weight: 600;
+}
+#offcanvas-body{
+    background-color: #153f65;
+    color: #70bdf2;
+}
 /* 
 ###########COLORS###########
 Shade 1 : #edf4fe
